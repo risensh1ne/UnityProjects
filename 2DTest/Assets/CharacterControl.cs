@@ -3,6 +3,8 @@ using System.Collections;
 
 public class CharacterControl : MonoBehaviour {
 
+	public Transform Temp2;
+
 	// Use this for initialization
 	void Start () {
 	
