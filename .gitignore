@@ -1,6 +1,9 @@
 
-2DTest/2DTest.userprefs
 
-2DTest/Library/assetDatabase3
+2DTest/Temp
+2DTest/Library
 
-2DTest/Library/InspectorExpandedItems.asset
+*. pidb
+*. unityproj
+* .. sln
+*. userprefs
