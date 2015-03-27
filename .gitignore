@@ -1,9 +1,7 @@
 
-
 2DTest/Temp
 2DTest/Library
-
-*. pidb
-*. unityproj
-*. sln
-*. userprefs
+*.pidb
+*.unityproj
+*.sln
+*.userprefs
